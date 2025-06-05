@@ -1,0 +1,10 @@
+﻿  Render.cpp
+C:\k_grafika\LAB2\KGlab\Render.cpp(365,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(365,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(365,28): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(366,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(366,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(367,19): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(367,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\k_grafika\LAB2\KGlab\Render.cpp(367,29): warning C4305: инициализация: усечение из "double" в "float"
+  KGlab.vcxproj -> C:\k_grafika\LAB2\x64\Debug\KGlab.exe
